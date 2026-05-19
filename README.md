@@ -22,7 +22,11 @@ You can run these programs either locally on your machine or directly in the clo
    ```Bash
    git clone https://github.com/mahie-cs/Learning-the-basics.git
    ```
-2. Compile a specific file using a C compiler (like `gcc` or `clang`):
+2. Navigate into the project folder:
+   ```Bash
+   cd Learning-the-basics
+   ```
+3. Compile a specific file using a C compiler (like `gcc` or `clang`):
    ```Bash
    gcc filename.c -o program
    ```
